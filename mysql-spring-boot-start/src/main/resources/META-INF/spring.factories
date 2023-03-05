@@ -1,0 +1,3 @@
+org.springframework.boot.env.EnvironmentPostProcessor=com.noah.starter.mysql.dynamic.DynamicEnvironmentPostProcessor
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.noah.starter.mysql.dynamic.NoahDynamicDataSourceAutoConfiguration,com.noah.starter.mysql.interceptor.MybatisPlusInterceptorAutoConfiguration
+

@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.noah.starter.xxl.meta.NoahXxlJobAutoConfiguration
+

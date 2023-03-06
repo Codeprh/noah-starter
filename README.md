@@ -46,7 +46,7 @@ noah.xxl-job.register.enable=false
   <a href="https://github.com/spring-projects/spring-boot">
     <img alt="spring boot version" src="https://img.shields.io/badge/spring%20boot-2.2.1.RELEASE-brightgreen">
   </a>
-  <a href="https://github.com/cayzlh/noah-starter/blob/master/LICENSE">
+  <a href="https://github.com/Codeprh/noah-starter/blob/main/LICENSE">
     <img alt="code style" src="https://img.shields.io/github/license/cayzlh/noah-starter">
   </a>
 </p>
